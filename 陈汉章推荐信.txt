@@ -3,17 +3,17 @@ Dear admission officers,
 
 As the founder and the technical leader of Sichuan Fangtsun Techonology Company, in which Mr. Hanzhang Chen is currently working, I'm very glad to write this ecommendation letter for him.
 
-Fangtsun is a start-up company in Chengdu, China, focusing on console games development. Our current project is an adverture game named "Shadow Play: the Brocade City Mystery" which is planning to launch on XBox One and PlayStation 4 next year.
+Fangtsun is a start-up company located in Chengdu, China, focusing on console games development. Our current project is an adverture game named "Shadow Play: the Brocade City Mystery" which is planning to launch on XBox One and PlayStation 4 the next year.
 
 Mr. Hanzhang Chen joined our team as a game designer in March 2015. His work involves gameplay system designing, level designing and gameplay programming. In the past 4 months, he has done a great job creating valuables to the project and in many other aspects.
 
 When he entered the project for the first time, he reviewed the existing gameplay system and made his suggestions with a really good insight. After that he rewrote the designing documents, because his work is much appreciated, it now becomes the foundation of our game today. Mr. Hanzhang Chen is not the one who only comes up with ideas, he also cares about details. He showed this quality when he was designing the concrete gameplay levels for the game. Because both the reproduction of the scenario details and the interactions with the players are crucial to user experience, sometimes it is difficult to balance them without trade-offs, in order to maximize user experience, Mr. Chen invested significant hours and hard works deliberating as many solutions as possible, trying to optimize how players should feel and get out of the gameplay in a specific second. 
 
-Mr. Chen is also responsible for gameplay programming and making sure it meets product-level qualities. In this part, he showed excellent implementing skills and the fact that he is a fast learner. 
+Mr. Chen is also responsible for gameplay programming as well as making sure it meets product-level qualities. In this part, he showed excellent implementing skills and the fact that he is a fast learner. Not only did he learnt the programming languages and the prototyping APIs that the project needs in one day, but also adapted into the working environment and started cooperating with others only after a short amount of time. When working on the prototype, Mr. Chen helped developing the software, made it possible to test different states in the game directly without going through the whole game story, which was a priceless feature when testing the game. 
 
-Noticeably, because of his deep understanding of computer programming, he becomes the bridge between the design and technology teams. He can use the both languages and communicates well with the team members with a wide range of deciplines. 
+Noticeably, because of his deep understanding of computer programming, he became the bridge between the design and technology teams. He coordinated well with the team members with a wide range of deciplines. (这里要不要加点什么内容?)
 
-Recently, I heard that he had decided to continue his study in computer science in the University of Southern California. His leaving is surely a loss of creativity of our team, but I still appreciate his desire of pursuing the higher level. I firmly belive that he is competent to complete the study outstandingly, and your consideration of offering him the admission is highly appreciated.
+Recently, I heard that he had decided to continue his study in computer science in the University of Southern California. His leaving is surely a loss of creativity of our team, but I still appreciate his desire of pursuing the higher level of education. I firmly believe that he is more than able to complete the study outstandingly, and your consideration of offering him the admission is highly appreciated.
 
 Best Regards,
 
